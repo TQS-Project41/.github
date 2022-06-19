@@ -10,7 +10,6 @@ Our group is developing an online shop for Coviran which will integrate with a o
 | 97673 | Pedro Duarte | Team Manager |
 | 98008 | Gonçalo Leal | DevOps |
 | 98474 | João Reis | Product Owner |
-| --- | --- | --- |
 
 ## Bookmarks
 
