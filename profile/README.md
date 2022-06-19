@@ -4,7 +4,7 @@ Our group is developing an online shop for Coviran which will integrate with a o
 
 ## Team
 
-|     |     |     |
+| n mec | name | role |
 | --- | --- | --- |
 | 97505 | Alexandre Serras | QA Engineer |
 | 97673 | Pedro Duarte | Team Manager |
