@@ -3,6 +3,8 @@
 Our group is developing an online shop for Coviran which will integrate with a order and delivery platform (also developed by us). The delivery is handled by the orders platform which assigns every delivery to a courier. These couriers also have a specific WebApp for them where they can get new deliveries and interact with the state of it.
 
 ## Team
+
+|     |     |     |
 | --- | --- | --- |
 | 97505 | Alexandre Serras | QA Engineer |
 | 97673 | Pedro Duarte | Team Manager |
