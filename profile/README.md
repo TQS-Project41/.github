@@ -21,4 +21,4 @@ Our group is developing an online shop for Coviran which will integrate with a o
 ### APIs Documentation
 
 - Private API: https://app.swaggerhub.com/apis/tqs-deliveries/tqs-deliveries-specific/1.0.0#/
-- Public API: https://app.swaggerhub.com/apis/tqs-deliveries/tqs-deliveries-core/1.0.0
+- Public API: https://app.swaggerhub.com/apis/tqs-deliveries/tqs-deliveries-core/3.0.0#
